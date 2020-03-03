@@ -2,7 +2,6 @@ name: flutter_card_io
 description: CardIO plugin for flutter
 version: 0.0.3
 author: ProcedurallyGenerated
-homepage: https://github.com/procedurallygenerated/flutter_card_io
 
 environment:
     sdk: ">=2.1.0 <3.0.0"
